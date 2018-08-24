@@ -1,0 +1,14 @@
+.Chrono {
+  width: 350px;
+  height: 100px;
+background-color: rgb(179, 226, 245);
+  font-family: sans-serif;
+    display: flex;
+    justify-content:space-between;
+  padding: 10px;  
+border-radius: 5px 3px
+padding:5px;
+}
+.separation{
+  margin: 30px;
+}
